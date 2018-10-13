@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: b909d0e02519d1745a45d3dae586bbef
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cut-Extrude1
+    100002: CUTTER_HOLDER_8
+    100004: CUTTING WHEEL_9
+    100006: Dome1
+    100008: Dome1 1
+    100010: Fillet1
+    100012: Fillet1 1
+    100014: Fillet1 2
+    100016: Fillet1 3
+    100018: Fillet1 4
+    100020: Fillet10
+    100022: Fillet10 1
+    100024: Fillet15
+    100026: Fillet2
+    100028: Fillet3
+    100030: Fillet4
+    100032: HOUSING_1
+    100034: KNOB_7
+    100036: KNOB_SCREW_14
+    100038: KNOB_WASHER_13
+    100040: //RootNode
+    100042: ROLL_PIN_12
+    100044: ROLLER_2
+    100046: ROLLER_5
+    100048: ROLLER_NUT_10
+    100050: ROLLER_PIN_3
+    100052: ROLLER_PIN_4
+    100054: ROLLER_SCREW_11
+    100056: SCREW_6
+    100058: TUBE_CUTTER
+    400000: Cut-Extrude1
+    400002: CUTTER_HOLDER_8
+    400004: CUTTING WHEEL_9
+    400006: Dome1
+    400008: Dome1 1
+    400010: Fillet1
+    400012: Fillet1 1
+    400014: Fillet1 2
+    400016: Fillet1 3
+    400018: Fillet1 4
+    400020: Fillet10
+    400022: Fillet10 1
+    400024: Fillet15
+    400026: Fillet2
+    400028: Fillet3
+    400030: Fillet4
+    400032: HOUSING_1
+    400034: KNOB_7
+    400036: KNOB_SCREW_14
+    400038: KNOB_WASHER_13
+    400040: //RootNode
+    400042: ROLL_PIN_12
+    400044: ROLLER_2
+    400046: ROLLER_5
+    400048: ROLLER_NUT_10
+    400050: ROLLER_PIN_3
+    400052: ROLLER_PIN_4
+    400054: ROLLER_SCREW_11
+    400056: SCREW_6
+    400058: TUBE_CUTTER
+    2100000: 'Material #34'
+    2100002: 'Material #35'
+    2100004: 'Material #36'
+    2100006: 'Material #37'
+    2100008: 'Material #38'
+    2100010: 'Material #39'
+    2100012: 'Material #40'
+    2300000: Cut-Extrude1
+    2300002: Dome1
+    2300004: Dome1 1
+    2300006: Fillet1
+    2300008: Fillet1 1
+    2300010: Fillet1 2
+    2300012: Fillet1 3
+    2300014: Fillet1 4
+    2300016: Fillet10
+    2300018: Fillet10 1
+    2300020: Fillet15
+    2300022: Fillet2
+    2300024: Fillet3
+    2300026: Fillet4
+    3300000: Cut-Extrude1
+    3300002: Dome1
+    3300004: Dome1 1
+    3300006: Fillet1
+    3300008: Fillet1 1
+    3300010: Fillet1 2
+    3300012: Fillet1 3
+    3300014: Fillet1 4
+    3300016: Fillet10
+    3300018: Fillet10 1
+    3300020: Fillet15
+    3300022: Fillet2
+    3300024: Fillet3
+    3300026: Fillet4
+    4300000: Fillet15
+    4300002: Fillet1
+    4300004: Dome1
+    4300006: Dome1
+    4300008: Fillet1
+    4300010: Cut-Extrude1
+    4300012: Fillet4
+    4300014: Fillet10
+    4300016: Fillet1
+    4300018: Fillet2
+    4300020: Fillet3
+    4300022: Fillet1
+    4300024: Fillet1
+    4300026: Fillet10
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
